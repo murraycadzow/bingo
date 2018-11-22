@@ -1,0 +1,13 @@
+Package: slackbingo
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.0.1
+Author: Murray Cadzow
+Maintainer: Murray Cadzow <murray.cadzow@otago.ac.nz>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    slackr
