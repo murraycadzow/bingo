@@ -1,13 +1,13 @@
 # slackbingo
 
-The goal of slackbingo is to ...
+The goal of slackbingo is to create bingo cards from a list of words and distrubute them to players via slack
 
 ## Installation
 
-You can install the released version of slackbingo from [CRAN](https://CRAN.R-project.org) with:
+You can install with:
 
 ``` r
-install.packages("slackbingo")
+devtools::install_github("murraycadzow/slackbingo")
 ```
 
 ## Example
